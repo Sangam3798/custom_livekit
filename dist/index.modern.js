@@ -664,7 +664,7 @@ var GridStage = function GridStage(_ref) {
     return React__default.createElement("div", null, "error ", error.message);
   }
   if (isConnecting) {
-    return React__default.createElement("div", null, "connecting from deepak");
+    return React__default.createElement("div", null, "connecting from deepak test 2");
   }
   if (!room) {
     return React__default.createElement("div", null, "room closed from deepak");

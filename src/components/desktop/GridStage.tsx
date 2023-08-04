@@ -86,7 +86,7 @@ export const GridStage = ({
   }
 
   if (isConnecting) {
-    return <div>connecting from deepak</div>;
+    return <div>connecting from deepak test 2</div>;
   }
   if (!room) {
     return <div>room closed from deepak</div>;
